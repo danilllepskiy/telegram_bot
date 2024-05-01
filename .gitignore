@@ -1,0 +1,12 @@
+__pycache__/
+bin/
+lib/
+lib64
+include/
+pyvenv.cfg
+sandbox.py
+*.log
+*.db
+/venv/
+/.env
+/.idea
